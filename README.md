@@ -8,6 +8,9 @@ A useful set of tools designed to make the lives of my fellow MAS players easier
 
 The program is completely automatic, simply open it, make a selection and follow the on screen instructions.
 
+# How to install MAStools
+Installation is very simple, simply naviagte to releases then download MAStools, then put the .bat file anywhere you want.
+
 ## FAQ
 Q: Will the RPY3 update break MAStools?
 
