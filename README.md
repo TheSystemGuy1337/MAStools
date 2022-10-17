@@ -12,13 +12,13 @@ The program is completely automatic, simply open it, make a selection and follow
 Installation is very simple, simply naviagte to releases then download MAStools, then put the .bat file anywhere you want.
 
 ## FAQ
-Q: Will the RPY3 update break MAStools?
+Q: Will the Renpy8 update break MAStools?
 
-A: No. MAStools runs independntly of MAS.
+A: No. MAStools runs independntly of MAS, so MAStools will continue to work after MAS migrates to RP8.
 
 Q: Do I need to install it to the Submods folder?
 
-A: Absolutely not. You can place this anywhere and it will work just fine. If you really want to, you can still put it in the Submods folder.
+A: Absolutely not. You can place this anywhere and it will work just fine. If you really want to, you can still put it in the Submods folder and MAStools work still work fine (however MAS won't recognize it)
 
 Q: How do I install submods using this tool?
 
