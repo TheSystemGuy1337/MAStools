@@ -11,6 +11,10 @@ The program is completely automatic, simply open it, make a selection and follow
 # How to install MAStools
 Installation is very simple, simply naviagte to releases then download MAStools, then put the .bat file anywhere you want.
 
+## ANTIVIRUS FALSE POSITIVE WARNING
+
+Some antiviruses report MAStools as malware. THIS IS A FALSE POSITIVE. MAStools is completely safe, and always will be.
+
 ## FAQ
 Q: Will the Renpy8 update break MAStools?
 
