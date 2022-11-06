@@ -1,22 +1,23 @@
 # MAStools - Toolkit for Monika After Story
-A useful set of tools designed to make the lives of my fellow MAS players easier.
+A useful set of tools designed to make the lives of MAS players easier.
+
 ## What can MAStools do?
 - Backup your persistant.
 - Backup your entire game.
 - Install submods for you (must be extracted to a folder first, see instructions)
 - Check affection levels without having to open the logs folder.
 
-The program is completely automatic, simply open it, make a selection and follow the on screen instructions.
+The program is completely automatic; simply open it, select one of the tools, and follow the instructions on-screen.
 
 # How to install MAStools
-Installation is very simple, simply naviagte to releases then download MAStools, then put the .bat file anywhere you want.
+Installation is very simple, simply navigate to releases then download MAStools, then put the .bat file anywhere you want.
 
 ## ANTIVIRUS FALSE POSITIVE WARNING
 
-Some antiviruses report MAStools as malware. THIS IS A FALSE POSITIVE. MAStools is completely safe, and always will be. If you are still conserned that MAStools is a virus, please look at the source code above.
+Some antiviruses report MAStools as malware. THIS IS A FALSE POSITIVE. MAStools is completely safe, and always will be. If you are still concerned that MAStools is a virus, please look at the source code above.
 
 ## WARNING TO PEOPLE WHO USE GOOGLE CHROME AND HAVE ENHANCED SAFE BROWSING ENABLED
-You WILL recive a warning saying the file isn't commonly downloaded and will ask you to send it to Google. DO NOT DO THIS. Instead, discard the download, turn off safe browsing temporarily then download MAStools again. When MAStools finishes downloading, turn safe browsing back on.
+You WILL receive a warning saying the file isn't commonly downloaded and will ask you to send it to Google. DO NOT DO THIS. Instead, discard the download, turn off Safe Browsing temporarily then download MAStools again. When MAStools finishes downloading, turn Safe Browsing back on.
 
 ## FAQ
 Q: Will the Renpy8 update break MAStools?
@@ -31,6 +32,6 @@ Q: How do I install submods using this tool?
 
 A: Before using this utility, read your submods README.md file. Some submods will tell you NOT to put it in your game folder or submods folder.
 
-To install a submod, create a folder, then extract the submod to that folder. Open MAStools, select 3 then follow on screen instuctions.
+To install a submod, create a folder, then extract the submod to that folder. Open MAStools, select 3 then follow on screen instructions.
 
 Questions? Spot a bug? DM u/TheSystemGuy64
