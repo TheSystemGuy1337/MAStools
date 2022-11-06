@@ -34,4 +34,7 @@ A: Before using this utility, read your submods README.md file. Some submods wil
 
 To install a submod, create a folder, then extract the submod to that folder. Open MAStools, select 3 then follow on screen instructions.
 
+## Minimum system requirements
+A PC running Windows XP or later.
+
 Questions? Spot a bug? DM u/TheSystemGuy64
