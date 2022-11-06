@@ -15,6 +15,9 @@ Installation is very simple, simply naviagte to releases then download MAStools,
 
 Some antiviruses report MAStools as malware. THIS IS A FALSE POSITIVE. MAStools is completely safe, and always will be. If you are still conserned that MAStools is a virus, please look at the source code above.
 
+## WARNING TO PEOPLE WHO USE GOOGLE CHROME AND HAVE ENHANCED SAFE BROWSING ENABLED
+You WILL recive a warning saying the file isn't commonly downloaded and will ask you to send it to Google. DO NOT DO THIS. Instead, discard the download, turn off safe browsing temporarily then download MAStools again. When MAStools finishes downloading, turn safe browsing back on.
+
 ## FAQ
 Q: Will the Renpy8 update break MAStools?
 
