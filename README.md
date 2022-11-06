@@ -13,7 +13,7 @@ Installation is very simple, simply naviagte to releases then download MAStools,
 
 ## ANTIVIRUS FALSE POSITIVE WARNING
 
-Some antiviruses report MAStools as malware. THIS IS A FALSE POSITIVE. MAStools is completely safe, and always will be.
+Some antiviruses report MAStools as malware. THIS IS A FALSE POSITIVE. MAStools is completely safe, and always will be. If you are still conserned that MAStools is a virus, please look at the source code above.
 
 ## FAQ
 Q: Will the Renpy8 update break MAStools?
