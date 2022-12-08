@@ -1,7 +1,7 @@
 # MAStools - Toolkit for Monika After Story
 A useful set of tools designed to make the lives of MAS players easier.
 
-# Important - Read first.
+# Important - Read first
 MAStools has been discontiuned and is now in the public domain. I haven't been working on MAStools and I have been mostly playing flight simulators as a hobby. I think leaving a tool abandoned with a GPL licence is a disgrace to the Monika After Story community, so I hereby release MAStools into the public domain.
 
 ## What can MAStools do?
