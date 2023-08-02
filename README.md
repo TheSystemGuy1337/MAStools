@@ -1,8 +1,8 @@
 # MAStools - Toolkit for Monika After Story
 A useful set of tools designed to make the lives of MAS players easier.
 
-# Important - Read first
-MAStools has been discontiuned and is public domain software. Use at your own risk. No support will be provided. By using MAStools, you accept the risk of irreversable data loss or possible damage to your MAS installation.
+# Important - Read me first
+MAStools has been discontiuned and is public domain software. It is also a batch script cobbled up by a 17-year old programmer. Use at your own risk. No support will be provided under any condition. You are on your own. By using MAStools, you accept the risk of irreversable data loss or possible damage to your MAS installation. I will not, and cannot be held legally liable for damages caused by the use of this program. This program does not work on macOS or Linux.
 
 ## What can MAStools do?
 - Backup your persistant.
@@ -39,5 +39,3 @@ To install a submod, create a folder, then extract the submod to that folder. Op
 
 ## Minimum system requirements
 A PC running Windows XP or later.
-
-Questions? Spot a bug? DM u/TheSystemGuy64
