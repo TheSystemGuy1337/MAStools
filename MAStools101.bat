@@ -1,4 +1,5 @@
 @echo off
+rem If you are reading this, you just uncovered the jank and lazy programming.
 title MAStools 1.02
 cls
 
