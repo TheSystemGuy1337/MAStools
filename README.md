@@ -2,7 +2,7 @@
 A useful set of tools designed to make the lives of MAS players easier.
 
 # Important - Read me first
-MAStools has been discontiuned and is public domain software. It is also a batch script cobbled up by a 17-year old programmer with immense scope creep and feature creep. Use at your own risk. No support will be provided under any condition. You are on your own. By using MAStools, you accept the risk of irreversable data loss or possible damage to your MAS installation. I will not, and cannot be held legally liable for damages caused by the use of this program. This program does not work on macOS or Linux. You are, however free to make your own forks; no permission required or credit required. I hereby release MAStools into the public domain
+MAStools has been discontiuned and is public domain software. It is also a batch script cobbled up by a 17-year old programmer with immense scope creep and feature creep, written in batch without any comments in the code, making it very hard to traverse. Use at your own risk. No support will be provided under any condition. You are on your own. By using MAStools, you accept the risk of irreversable data loss or possible damage to your MAS installation. I will not, and cannot be held legally liable for damages caused by the use of this program. This program does not work on macOS or Linux. You are, however free to make your own forks; no permission required or credit required. I hereby release MAStools into the public domain
 
 ## What can MAStools do?
 - Backup your persistant.
